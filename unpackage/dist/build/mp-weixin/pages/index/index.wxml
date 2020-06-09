@@ -1,0 +1,1 @@
+<block wx:if="{{nowPlayingList.length!=undefined}}"><view class="content"><image src="{{nowPlayingList[0].images.large}}"></image><view data-event-opts="{{[['tap',[['toShouye',['$event']]]]]}}" class="btn" bindtap="__e">立即体验</view></view></block>

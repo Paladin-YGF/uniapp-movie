@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/shouye/shouye",
+    "pages/detail/detail",
+    "pages/class/class"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTitleText": "",
+    "navigationBarTextStyle": "white",
+    "navigationBarBackgroundColor": "#007AFF"
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置即将被微信小程序获取，是否给予授权"
+    }
+  },
+  "usingComponents": {}
+}
